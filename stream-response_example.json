@@ -1,0 +1,47 @@
+{
+  "appnews": {
+    "appid": 1623730,
+    "newsitems": [
+      {
+        "gid": "5519792046249557082",
+        "title": "Lucky Pals: how 'shiny pals' work in Palworld",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/5519792046249557082",
+        "is_external_url": true,
+        "author": "Lauren Morton",
+        "contents": "Not to be left out of creature catching convention, Palworld does have rarer, more powerful variants that Pok&#xE9;mon players will likely find themselves calling \"shiny Pals\" out of habit. Officially Palworld calls shinies Lucky Pals instead. You could easily assume otherwise, though, because Lucky...",
+        "feedlabel": "PC Gamer",
+        "date": 1706217936,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 1623730
+      },
+      {
+        "gid": "5519792046248872173",
+        "title": "How to build and use a Ranch in Palworld",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/5519792046248872173",
+        "is_external_url": true,
+        "author": "Sarah James",
+        "contents": "If you&apos;ve unlocked the <strong>Ranch</strong> in <a href=\"https://www.pcgamer.com/palworld/\" target=\"_blank\"> Palworld </a>, you might be wondering if it&apos;s worth the materials required to craft it. While none of what&apos;s required is particularly rare, if you&apos;re still quite early on, you may be at the stage where you&apos;re having to farm resources yourself to ...",
+        "feedlabel": "PC Gamer",
+        "date": 1706201544,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 1623730
+      },
+      {
+        "gid": "5519792046248745416",
+        "title": "Palworld is the Pokémon this sinful world deserves",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/5519792046248745416",
+        "is_external_url": true,
+        "author": "Dave Jones",
+        "contents": "Let&apos;s be honest, if Pok&#xE9;mon were real today, we&apos;d have Pikachu power stations, Poliwraths flushing fatbergs from our sewers, Piplups cleaning crime scenes, and a rentable Chansey subscription service from healthcare providers. Maybe I&apos;m just being cynical, but even the premise th...",
+        "feedlabel": "PC Gamer",
+        "date": 1706198685,
+        "feedname": "PC Gamer",
+        "feed_type": 0,
+        "appid": 1623730
+      }
+    ],
+    "count": 102
+  }
+}
